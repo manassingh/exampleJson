@@ -1,0 +1,201 @@
+{
+"nodes": [
+		{
+		"node": 0,
+		"name": "ROC"
+		},
+		{
+		"node": 1,
+		"name": "Figma specs"
+		},
+		{
+		"node": 2,
+		"name": "ROC specs"
+		},
+		{
+		"node": 3,
+		"name": "Figma RDS"
+		},
+		{
+		"node": 4,
+		"name": "Figma toolkit"
+		},
+		{
+		"node": 5,
+		"name": "Jet cookbook"
+		},
+		{
+		"node": 6,
+		"name": "Spectra demo"
+		},
+		{
+		"node": 7,
+		"name": "Confluence"
+		},
+		{
+		"node": 8,
+		"name": "Other projects"
+		},
+		{
+		"node": 9,
+		"name": "Individual ask"
+		}
+	],
+"links": [
+{
+	"source": 0,
+	"target": 1,
+	"value": 2
+},
+{
+	"source": 1,
+	"target": 5,
+	"value": 2
+},
+{
+	"source": 5,
+	"target": 9,
+	"value": 2
+},
+{
+	"source": 0,
+	"target": 5,
+	"value": 2
+},
+{
+	"source": 0,
+	"target": 5,
+	"value": 2
+},
+{
+	"source": 5,
+	"target": 7,
+	"value": 2
+},
+{
+	"source": 7,
+	"target": 9,
+	"value": 2
+},
+{
+	"source": 1,
+	"target": 0,
+	"value": 2
+},
+{
+	"source": 0,
+	"target": 9,
+	"value": 2
+},
+{
+	"source": 6,
+	"target": 2,
+	"value": 2
+},
+{
+	"source": 2,
+	"target": 3,
+	"value": 2
+},
+{
+	"source": 3,
+	"target": 1,
+	"value": 2
+},
+{
+	"source": 4,
+	"target": 1,
+	"value": 2
+},
+{
+	"source": 1,
+	"target": 6,
+	"value": 2
+},
+{
+	"source": 6,
+	"target": 1,
+	"value": 2
+},
+{
+	"source": 1,
+	"target": 3,
+	"value": 2
+},
+{
+	"source": 1,
+	"target": 3,
+	"value": 2
+},
+{
+	"source": 3,
+	"target": 4,
+	"value": 2
+},
+{
+	"source": 4,
+	"target": 9,
+	"value": 2
+},
+{
+	"source": 3,
+	"target": 1,
+	"value": 2
+},
+{
+	"source": 1,
+	"target": 0,
+	"value": 2
+},
+{
+	"source": 0,
+	"target": 2,
+	"value": 2
+},
+{
+	"source": 2,
+	"target": 4,
+	"value": 2
+},
+{
+	"source": 4,
+	"target": 9,
+	"value": 2
+},
+{
+	"source": 4,
+	"target": 1,
+	"value": 2
+},
+{
+	"source": 1,
+	"target": 5,
+	"value": 2
+},
+{
+	"source": 5,
+	"target": 9,
+	"value": 2
+},
+{
+	"source": 4,
+	"target": 1,
+	"value": 2
+},
+{
+	"source": 1,
+	"target": 6,
+	"value": 2
+},
+{
+	"source": 6,
+	"target": 8,
+	"value": 2
+},
+{
+	"source": 8,
+	"target": 9,
+	"value": 2
+}
+]
+}
